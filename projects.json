@@ -1,0 +1,20 @@
+{
+  "mind_driven_programming": {
+    "title": "Mind-Driven Programming",
+    "description": "A modular logic engine that interprets thoughts, emotions, and time-based triggers into executable logic.",
+    "github": "https://github.com/coder7867/mind-driven-programming",
+    "demo": "https://mind-driven-programming-alhbnhamn7akavjnjzehwu.streamlit.app/"
+},
+  "digital_afterlife_engine": {
+    "title": "Digital Afterlife Engine",
+    "description": "An AI-powered system that preserves digital identity and simulates posthumous interactions using memory and emotion modeling.",
+    "github": "https://github.com/Coder7867/Digital-Afterlife-Engine",
+    "demo": "https://digital-afterlife-engine-ac3fmzcmd5yzxrhbwtnz9a.streamlit.app/"
+},
+  "agentflow_builder": {
+    "title": "AgentFlow Builder",
+    "description": "A visual framework for designing and deploying multi-agent workflows with logic, memory, and automation.",
+    "github": "https://github.com/Coder7867/AgentFlow-Builder",
+    "demo": "https://agentflow-builder-kyqgudkn4fggwvunxsnghf.streamlit.app/"
+}
+}
